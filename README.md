@@ -61,10 +61,3 @@ Compile and run from the terminal:
 javac SlowCalculator.java Solution.java
 java Solution
 
-## Then enter commands such as:
-```bash
-start 120
-running
-get 120
-after 120 300
-finish
